@@ -14,10 +14,11 @@ The game ends once all cards have been correctly matched.
 ## What I Learned by Doing This Project
 _The memory game presents the first opportunity to fully combine your skills in HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you'll discover how best to combine them in a complex application._
 
-The following are just some of the questions that you'll experience along the way:
+The following are some of the tasks which challenged me as a developer:
 
-What's the ideal workflow?
-How many files do I need?
-Do I modify the HTML first or the CSS?
-How many JavaScript functions do I need?
-Should my function be this many lines of code?
+Figuring out the ideal workflow by writing down the steps considering the algorithm
+Writing higher order function(The function receiving the callback function and/or which returns another function) and callback(The function passed an argument) functions
+Writing JavaScript built in properties like style.cssText and style.setAttribute.
+Writing @Keyframes for Animation in CSS3.
+Writing code avoiding tight coupling and name collision.
+I wrote the code using JavaScript ES6 Syntax - implementing using let and const instead of var, used arrow functions, template literals, spread and rest parameters, for of / for in loops for iteration etc.
