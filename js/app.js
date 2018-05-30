@@ -196,8 +196,6 @@ function shuffle(array) {
  *    + if all cards have matched, display a message with the final score (put this functionality in another function that you call from this one)
  */
 
-
-/* Confetti animation source - https://codepen.io/jonathanbell/pen/OvYVYw */
 function confettiAnimation(){
 document.querySelector("#canvas").style.visibility="visible";
 let W = window.innerWidth;
