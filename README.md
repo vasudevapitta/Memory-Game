@@ -28,4 +28,5 @@ _External Libraries and Icons used from following websites:_
 
 Font Awesome
 jQuery
-Confetti_
+Stack Overflow
+Codepen
