@@ -22,3 +22,10 @@ Writing JavaScript built in properties like style.cssText and style.setAttribute
 Writing @Keyframes for Animation in CSS3.
 Writing code avoiding tight coupling and name collision.
 I wrote the code using JavaScript ES6 Syntax - implementing using let and const instead of var, used arrow functions, template literals, spread and rest parameters, for of / for in loops for iteration etc.
+
+## Dependencies
+_External Libraries and Icons used from following websites:_
+
+Font Awesome
+jQuery
+Confetti_
