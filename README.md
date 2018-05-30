@@ -26,7 +26,7 @@ I wrote the code using JavaScript ES6 Syntax - implementing using let and const 
 ## Dependencies
 _External Libraries and Icons used from following websites:_
 
-Font Awesome
-jQuery
-Stack Overflow
-Codepen
+Font Awesome,
+jQuery,
+Stack Overflow,
+Codepen.
