@@ -197,7 +197,7 @@ function shuffle(array) {
  */
 
 
-
+/* Confetti animation source - https://codepen.io/jonathanbell/pen/OvYVYw */
 function confettiAnimation(){
 document.querySelector("#canvas").style.visibility="visible";
 let W = window.innerWidth;
