@@ -86,7 +86,7 @@ h1 {
     font-size: 33px;
 }
 
-
+/* Card flipping animation when card is clicked */
 @keyframes flipAnimation {
   0% {
   -webkit-transform: rotateY(90deg);
@@ -141,6 +141,7 @@ h1 {
     animation: wrongAnimation 0.3s;
 }
 
+/* Animation - When cards don't Match */
 @keyframes wrongAnimation {
           0%, 100% {background-color: red;}
           50% {background-color: red;}
@@ -191,6 +192,7 @@ h1 {
     animation: rightAnimation 0.3s;
 }
 
+/* Animation - When cards Match */
 @keyframes rightAnimation {
   0%, 100% {background-color: #2ec524;}
   0% {
@@ -224,6 +226,7 @@ h1 {
 }
 }
 
+/* The slide which appears at the end of the game */
 .result {
     z-index: 1;
     font-size: 18px;
